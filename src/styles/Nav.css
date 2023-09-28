@@ -1,0 +1,21 @@
+
+a {
+    display: flex;
+    text-decoration: none;
+    color: inherit;
+    align-items: center;
+}
+a > h3{
+    color: #61DBFB;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-logo{
+    width: 30px;
+    height: 30px;
+}
+
